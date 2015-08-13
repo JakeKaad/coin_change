@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoinTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2015-08-13T20:49:12" hostname="Jakes-iMac.local" time="0.002">
+  <properties/>
+  <testcase name="isCoinReturningAmountofDimes_String" classname="CoinTest" time="0.001"/>
+  <testcase name="isCoinReturningAmountofQuarters_String" classname="CoinTest" time="0.0"/>
+  <testcase name="isCoinReturningAmountofPennies_String" classname="CoinTest" time="0.0"/>
+  <testcase name="isCoinReturningCorrestOutput_String" classname="CoinTest" time="0.0"/>
+  <testcase name="isCoinReturningAmountofNickels_String" classname="CoinTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
